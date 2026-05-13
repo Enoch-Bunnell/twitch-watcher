@@ -1,3 +1,7 @@
+# Copyright 2026 Enoch Bunnell, AlyxiC
+# SPDX-License-Identifier: Apache-2.0
+# See LICENSE in the project root for the full Apache License 2.0 text.
+
 """Twitch OAuth (Authorization Code flow) with token persistence and refresh.
 
 This module owns the full OAuth dance:

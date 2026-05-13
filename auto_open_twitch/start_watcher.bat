@@ -1,4 +1,8 @@
 @echo off
+REM Copyright 2026 Enoch Bunnell, AlyxiC
+REM SPDX-License-Identifier: Apache-2.0
+REM See LICENSE in the project root for the full Apache License 2.0 text.
+
 REM Starts the Twitch live watcher.
 REM
 REM Run launch_opera.bat FIRST so the watcher can see your existing tabs via

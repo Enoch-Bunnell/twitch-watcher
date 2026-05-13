@@ -1,3 +1,7 @@
+# Copyright 2026 Enoch Bunnell, AlyxiC
+# SPDX-License-Identifier: Apache-2.0
+# See LICENSE in the project root for the full Apache License 2.0 text.
+
 """Send a one-shot message to a Twitch channel over IRC.
 
 Twitch's chat runs on IRC (Internet Relay Chat) — a decades-old text

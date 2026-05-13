@@ -1,4 +1,8 @@
 @echo off
+REM Copyright 2026 Enoch Bunnell, AlyxiC
+REM SPDX-License-Identifier: Apache-2.0
+REM See LICENSE in the project root for the full Apache License 2.0 text.
+
 REM Launches Opera GX with --remote-debugging-port=9222 so watcher.py can
 REM detect whether a streamer's tab is already open. Opera GX is Chromium-
 REM based so it speaks the standard Chrome DevTools Protocol on port 9222.

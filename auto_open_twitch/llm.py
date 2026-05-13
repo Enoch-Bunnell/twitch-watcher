@@ -1,3 +1,7 @@
+# Copyright 2026 Enoch Bunnell, AlyxiC
+# SPDX-License-Identifier: Apache-2.0
+# See LICENSE in the project root for the full Apache License 2.0 text.
+
 """Generate Twitch lurk messages via a local LLM through Ollama.
 
 Ollama (https://ollama.com) is a small local server that runs LLMs on your

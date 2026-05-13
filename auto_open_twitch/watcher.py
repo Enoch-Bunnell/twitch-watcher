@@ -1,3 +1,7 @@
+# Copyright 2026 Enoch Bunnell, AlyxiC
+# SPDX-License-Identifier: Apache-2.0
+# See LICENSE in the project root for the full Apache License 2.0 text.
+
 """Main poll loop. This is the file you actually run.
 
 The watcher keeps three pieces of state across ticks:

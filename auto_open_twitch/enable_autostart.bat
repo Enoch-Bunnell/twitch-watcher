@@ -1,4 +1,8 @@
 @echo off
+REM Copyright 2026 Enoch Bunnell, AlyxiC
+REM SPDX-License-Identifier: Apache-2.0
+REM See LICENSE in the project root for the full Apache License 2.0 text.
+
 REM Adds a shortcut to start_watcher.bat into your Windows Startup folder so
 REM the watcher launches automatically each time you log in. Idempotent: if
 REM the shortcut already exists, it's left alone.

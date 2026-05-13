@@ -1,3 +1,7 @@
+# Copyright 2026 Enoch Bunnell, AlyxiC
+# SPDX-License-Identifier: Apache-2.0
+# See LICENSE in the project root for the full Apache License 2.0 text.
+
 """Talk to a Chromium-based browser through the Chrome DevTools Protocol.
 
 The Chrome DevTools Protocol (CDP) is a JSON-over-HTTP/WebSocket interface

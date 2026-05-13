@@ -1,3 +1,7 @@
+# Copyright 2026 Enoch Bunnell, AlyxiC
+# SPDX-License-Identifier: Apache-2.0
+# See LICENSE in the project root for the full Apache License 2.0 text.
+
 # enable_opera_debug.ps1
 #
 # Adds --remote-debugging-port=9222 to every Opera GX shortcut found in the

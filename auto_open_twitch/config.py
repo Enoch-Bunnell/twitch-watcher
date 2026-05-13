@@ -1,3 +1,7 @@
+# Copyright 2026 Enoch Bunnell, AlyxiC
+# SPDX-License-Identifier: Apache-2.0
+# See LICENSE in the project root for the full Apache License 2.0 text.
+
 """Central configuration and constants for the watcher.
 
 Loads secrets from .env (Twitch API credentials, Ollama model name), defines

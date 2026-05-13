@@ -1,4 +1,8 @@
 @echo off
+REM Copyright 2026 Enoch Bunnell, AlyxiC
+REM SPDX-License-Identifier: Apache-2.0
+REM See LICENSE in the project root for the full Apache License 2.0 text.
+
 REM Removes the watcher's Startup-folder shortcut so it stops auto-launching.
 
 set "STARTUP=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"

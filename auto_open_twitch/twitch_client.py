@@ -1,3 +1,7 @@
+# Copyright 2026 Enoch Bunnell, AlyxiC
+# SPDX-License-Identifier: Apache-2.0
+# See LICENSE in the project root for the full Apache License 2.0 text.
+
 """Thin wrapper around Twitch's Helix API.
 
 Phase 1 (and ongoing) only needs one Helix endpoint: GET /streams. Given a
