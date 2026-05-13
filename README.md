@@ -158,11 +158,3 @@ second lurk when the streamer recovers within the window.
 - `.env` contains your app's client secret. Same.
 - IRC messages are sent over TLS (port 6697) but the message body is visible
   to anyone in chat (obviously).
-
-## Future ideas
-
-The original [twitchappsetuo.md](twitchappsetuo.md) spec lists possible
-extensions: auto-recording streams, auto-clipping highlights, AI-generated
-stream summaries, "smart watchlist" prioritization. None of these are
-implemented — they're listed there as ideas if you want to extend the
-project.
