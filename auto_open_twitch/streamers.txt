@@ -1,0 +1,12 @@
+# One Twitch channel URL per line. Lines starting with # are ignored.
+# Plain usernames also work (e.g., "celestiayukihime").
+https://www.twitch.tv/celestiayukihime
+https://www.twitch.tv/candypeachesgg
+https://www.twitch.tv/ricegodworld
+https://www.twitch.tv/kathslay
+https://www.twitch.tv/kiyoit
+https://www.twitch.tv/xl1ptic
+https://www.twitch.tv/shylily
+https://www.twitch.tv/akane9_vt
+https://www.twitch.tv/rainbow6
+https://www.twitch.tv/w1innn

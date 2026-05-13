@@ -1,0 +1,9 @@
+# One lurk message per line. The watcher picks one at random for each
+# offline -> live transition. Keep them generic and short. Lines starting
+# with # are ignored.
+
+lurking in the background, have a great stream!
+lurking while I'm afk, will catch up later
+dropping in to lurk for a bit, hope the stream goes well
+in the background while I'm out -- have a good one
+afk but wanted to stop by and lurk. cheers
